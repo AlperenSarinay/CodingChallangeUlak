@@ -20,11 +20,6 @@ list<string> FileSystemAnalyzer::DiscoverFiles(string rootPath) {
 		string file = p.path().string();
 		if (ends_with(file, TEXT_FILE_EXTENSION))
 			files.push_front(file);
-
-	}
-
-	for (string s : files) {
-		std::cout << s << endl;
 	}
 	return files;
 }
