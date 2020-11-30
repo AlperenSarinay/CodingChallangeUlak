@@ -6,6 +6,13 @@
 #include <list>
 using namespace std;
 
+/*
+* Class FileSystemAnalyzer
+* @author Alperen Sarýnay
+* @mail alperensarinay@gmail.com
+* @create_at 29.12.2020
+*/
+
 class FileSystemAnalyzer {
 	public:
 		static list<string> DiscoverFiles(string rootPath);

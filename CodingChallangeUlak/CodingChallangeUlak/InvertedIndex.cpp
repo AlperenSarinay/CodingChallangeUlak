@@ -1,7 +1,6 @@
 #include "stdafx.h"
 #include "InvertedIndex.h"
 #include<iostream>
-#include<vector>
 #include<map>
 #include<fstream>
 #include<sstream>
@@ -9,9 +8,12 @@
 #include<string>
 
 using namespace std;
+
+// I map the words in all files and record how many times each word occurs in a .txt file named result.
+
 void InvertedIndex::creatAndWrite() {
 	ofstream myfile;
-	myfile.open("createandwrite.txt");
+	myfile.open("result.txt");
 	for (auto i : Dictionary)
 	{
 		for (auto j : Dictionary[i.first]) {

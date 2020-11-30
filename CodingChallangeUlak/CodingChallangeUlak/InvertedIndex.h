@@ -1,10 +1,16 @@
-#pragma once
 #include<iostream>
-#include<vector>
 #include<map>
 #include<string>
 
 using namespace std;
+
+/*
+* Class InvertedIndex
+* @author Alperen Sarýnay
+* @mail alperensarinay@gmail.com
+* @create_at 30.12.2020
+*/
+
 
 class InvertedIndex
 {
