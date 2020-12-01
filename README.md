@@ -19,3 +19,16 @@ cli –index "path_to_library"
 cli –search "some_word"
 ```
 * After entering this argument, the program goes to the database it created previously, maps all the information found there and then searches for the entered word. Returns each result with the file paths and the number of times it was used in the .txt file.
+
+
+## Sample Screenshot
+
+![Screenshot1](https://user-images.githubusercontent.com/39926184/100775378-3fd75900-3414-11eb-93df-a4af3758b241.png)
+
+<hr>
+
+![ScreenShot2](https://user-images.githubusercontent.com/39926184/100775723-b4aa9300-3414-11eb-9b28-9a5c436f0a03.png)
+
+<hr>
+
+![ScreenShot3](https://user-images.githubusercontent.com/39926184/100775752-becc9180-3414-11eb-8b00-b8603d56b3b9.png)
