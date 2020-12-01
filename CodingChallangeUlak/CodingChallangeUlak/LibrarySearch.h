@@ -14,8 +14,9 @@ using namespace std;
 
 class LibrarySearch
 {
-	map<string, map<string, int>> Result;
+	
 public:
+	map<string, map<string, int>> Result;
 	void search(string word);
 	void addFileInverted(string filename);
 	

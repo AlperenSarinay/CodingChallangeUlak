@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\ALPEREN\Desktop\CodingChallangeUlak\CodingChallangeUlak\Debug\Google_Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="InvertedIndexTest.test1" Duration="1" />
+    <TestDuration Test="InvertedIndexTest.test2" Duration="1" />
+    <TestDuration Test="FileSystemAnalyzerTest.test1" Duration="1" />
+    <TestDuration Test="FileSystemAnalyzerTest.test" Duration="1" />
+    <TestDuration Test="InvertedIndexTest2.test2" Duration="1" />
+    <TestDuration Test="InvertedIndexTest1.test1" Duration="1" />
+    <TestDuration Test="LibrarySearchTest3.test3" Duration="1" />
+    <TestDuration Test="LibrarySearchTest4.test4" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>

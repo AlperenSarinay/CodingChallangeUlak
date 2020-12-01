@@ -14,6 +14,7 @@ using namespace std;
 */
 
 class FileSystemAnalyzer {
+
 	public:
 		static list<string> DiscoverFiles(string rootPath);
 };

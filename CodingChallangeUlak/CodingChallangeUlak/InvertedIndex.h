@@ -14,8 +14,9 @@ using namespace std;
 
 class InvertedIndex
 {
-	map<string, map<string, int>> Dictionary;
+	
 public:
+	map<string, map<string, int>> Dictionary;
 	void addfile(string filename);
 	void creatAndWrite();
 };
