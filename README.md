@@ -39,4 +39,4 @@ cli –search "some_word"
 
 <hr>
 
-![test](https://user-images.githubusercontent.com/39926184/100798311-8a68cd80-3434-11eb-90b0-5cef25dccfca.png)
+![test](https://user-images.githubusercontent.com/39926184/100798697-0cf18d00-3435-11eb-9fb7-ee3144795796.png)
