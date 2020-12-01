@@ -20,6 +20,10 @@ cli –search "some_word"
 ```
 * After entering this argument, the program goes to the database it created previously, maps all the information found there and then searches for the entered word. Returns each result with the file paths and the number of times it was used in the .txt file.
 
+## Test
+
+* GoogleTest was used in testing this program. 
+* I wrote five different tests.
 
 ## Sample Screenshot
 
@@ -32,3 +36,7 @@ cli –search "some_word"
 <hr>
 
 ![ScreenShot3](https://user-images.githubusercontent.com/39926184/100775752-becc9180-3414-11eb-8b00-b8603d56b3b9.png)
+
+<hr>
+
+![test](https://user-images.githubusercontent.com/39926184/100798311-8a68cd80-3434-11eb-90b0-5cef25dccfca.png)
