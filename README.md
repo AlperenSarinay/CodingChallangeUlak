@@ -20,8 +20,6 @@ cli –search some_word
 ```
 * After entering this argument, the program goes to the database it created previously, maps all the information found there and then searches for the entered word. Returns each result with the file paths and the number of times it was used in the .txt file.
 
-#### Note
-* 
 
 ## Test
 
